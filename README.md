@@ -1,8 +1,6 @@
 # PaleoPredictive-Modelling ReadME
 
-## Title:
-
-**PaleoPredictive Modelling: Leveraging Machine Learning for Fossil Classification**
+## Title: PaleoPredictive Modelling: Leveraging Machine Learning for Fossil Classification**
 
 ---
 
