@@ -4,6 +4,8 @@
 
 **PaleoPredictive Modelling: Leveraging Machine Learning for Fossil Classification**
 
+---
+
 **Project Overview: PaleoPredictive Modelling**
 
 **Introduction:**
@@ -37,6 +39,8 @@ Traditional palaeontological methods achieved a baseline accuracy of 77.21%. Alt
 - **Future Research:** Identifies key areas for improvement, including sample size expansion, data collection, model refinement, and exploration of advanced techniques.
 
 Overall, while the study highlights the potential of machine learning to enhance palaeontological research, it also underscores the need for further refinement, addressing class imbalance, and exploring alternative algorithms to improve predictive accuracy and handle the limitations of fossil data.
+
+---
 
 ## Technologies Used
 
@@ -90,6 +94,8 @@ This project employs a range of technologies and libraries for data analysis, vi
 - **Git**: For version control and tracking changes.
 - **GitHub**: Hosts the repository and supports collaboration.
 
+---
+
 ## Installation Instructions
 
 To run this project locally, follow these steps:
@@ -129,6 +135,8 @@ To verify that the dependencies are correctly installed, you can run a Python sc
 ## Usage
 
 This project demonstrates the Machine Learning and Modelling capabilities acquired during the Data Science & AI course. It is designed to showcase skills in data manipulation, statistical analysis, and visualization, with a focus on applying machine learning techniques to real-world problems. The project aims to highlight expertise to potential stakeholders, future employers, and other interested parties.
+
+---
 
 ## Results and Analysis 
 
@@ -172,6 +180,8 @@ The study highlights the potential of machine learning to enhance palaeontologic
 
 This project is not licensed under any specific license. You are free to use, modify, and distribute this project as you see fit. However, please note that this project is intended for personal use and portfolio showcasing purposes. If you share or distribute this project, please ensure that any derivative works or modifications adhere to the same principles of personal use and respect for the original work.
 
+---
+
 ## Acknowledgements
 
 Here’s an updated acknowledgment section for your project 
@@ -187,6 +197,8 @@ Here’s an updated acknowledgment section for your project
 The original dataset used in this project was obtained from the Paleobiology Database (https://paleobiodb.org/#/). This extensive resource provided comprehensive fossil data, which served as the foundation for the machine learning models developed in this project.
 
 For more information about the data, including its structure and additional details, you can visit the Paleobiology Database repository.
+
+---
 
 ## Contact Information
 
